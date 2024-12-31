@@ -2,7 +2,7 @@ title: Giuliano Rosella
 image: /assets/images/mia pic.jpg
 author:
   name: giulianorosella
-  email: giulianoros96@gmail.com
+  email: giuliano.rosella@unito.it
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -32,6 +32,7 @@ plugins:
 header_pages:
   - about.md
   - info.md
+  - index.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
